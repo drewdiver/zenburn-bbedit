@@ -8,3 +8,4 @@ Place the `Zenburn.bbColorScheme` in `~/Library/Application Support/BBEdit/Color
 
 ## Screenshot
 
+![Zenburn for BBEdit](zenburn-bbedit.png)
