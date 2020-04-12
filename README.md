@@ -1,6 +1,6 @@
 # Zenburn for BBEdit
 
-This is an adaptation of Jani Nurminen’s [Zenburn](http://kippura.org/zenburnpage/) color scheme for BBEdit. It looks best in when dark mode is enabled in macOS.
+This is an adaptation of Jani Nurminen’s [Zenburn](http://kippura.org/zenburnpage/) color scheme for BBEdit, It looks best when dark mode is enabled.
 
 ## Installation
 
